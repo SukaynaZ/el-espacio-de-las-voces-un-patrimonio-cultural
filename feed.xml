@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>El espacio de las voces</title>
+    <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/feed.xml" rel="self" />
+    <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural" />
+    <updated>2025-09-25T12:01:16-05:00</updated>
+    <author>
+        <name>Sukayna Zahra Herman Cuero</name>
+    </author>
+    <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural</id>
+
+    <entry>
+        <title>¿Qué hacer con el espacio?</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/que-hacer-con-elespacio.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/que-hacer-con-elespacio.html</id>
+            <category term="Resignifiquemos el espacio"/>
+
+        <updated>2025-09-25T12:00:30-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Opiones del vacio</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/opiones-del-vacio.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/opiones-del-vacio.html</id>
+            <category term="Resignifiquemos el espacio"/>
+
+        <updated>2025-09-25T12:00:06-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Opiniones positivas</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/opiniones-positivas.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/opiniones-positivas.html</id>
+            <category term="Dándole peso al beso"/>
+
+        <updated>2025-09-25T11:59:37-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Opiniones negativas</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/las-opiniones.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/las-opiniones.html</id>
+            <category term="Dándole peso al beso"/>
+
+        <updated>2025-09-25T10:30:56-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

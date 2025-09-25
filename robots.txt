@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sukaynaz.github.io/el-espacio-de-las-voces-un-patrimonio-cultural/sitemap.xml
